@@ -1,0 +1,8 @@
+[submodule "UDataBase"]
+	path = UDataBase
+	url = https://github.com/taqu/UDataBase.git
+	branch = features/initial
+[submodule "Plugins/UDataBase"]
+	path = Plugins/UDataBase
+	url = https://github.com/taqu/UDataBase.git
+	branch = features/initial
