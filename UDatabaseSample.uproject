@@ -1,4 +1,4 @@
-﻿{
+{
 	"FileVersion": 3,
 	"EngineAssociation": "{4EF67891-48CF-BAFA-671A-EEB77AC8D622}",
 	"Category": "",
@@ -20,6 +20,14 @@
 		},
 		{
 			"Name": "UDatabase",
+			"Enabled": true
+		},
+		{
+			"Name": "FunctionalTestingEditor",
+			"Enabled": true
+		},
+		{
+			"Name": "EditorTests",
 			"Enabled": true
 		}
 	]
